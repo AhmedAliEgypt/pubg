@@ -6,4 +6,4 @@ switch ($k1) {
         echo "true";
         break;
 	
-?>","uuid":"<?php echo $_GET['udid']; ?>"}
+?>","":"<?php echo $_GET['']; ?>"}
