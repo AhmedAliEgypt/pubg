@@ -1,13 +1,13 @@
-<?php
+{"status":"<?php
 
-{"status":" 
+$k1 = $_GET ["key"];
 
 switch ($k1) {
-  
+    case "ابراهيم القحبة":
         echo "true";
         break;
-	
-
+	default:
+		echo "false";
+		break;
 }
-}
-?>
+?>","uuid":"<?php echo $_GET['udid']; ?>"}
