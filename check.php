@@ -1,4 +1,6 @@
-{"status":"<?php
+<?php
+
+{"status":" 
 
 switch ($k1) {
   
