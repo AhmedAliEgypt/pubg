@@ -1,5 +1,5 @@
-{"status":"<?php
+<?php
 
         echo "true";
 	
-?>"}
+?>
