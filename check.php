@@ -7,3 +7,5 @@ switch ($k1) {
 	
 
 }
+
+php?>
