@@ -4,7 +4,7 @@ $k1 = $_GET ["key"];
 
 switch ($k1) {
     case "ARABIC-DEV":
-        echo "ايه";
+        echo "true";
         break;
 	default:
 		echo "false";
