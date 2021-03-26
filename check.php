@@ -1,6 +1,6 @@
 {"status":"<?php
 
-    case "ARABIC-DEV":
+    case "true":
         echo "true";
         break;
 	default:
