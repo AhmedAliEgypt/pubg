@@ -3,8 +3,8 @@
 $k1 = $_GET ["key"];
 
 switch ($k1) {
-    case "IOSGGAR":
-    echo "true";
+    case "arabic-dev":
+    echo "crack";
         break;
 	default:
 		echo "false";
