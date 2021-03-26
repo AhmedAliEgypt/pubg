@@ -1,8 +1,6 @@
 {"status":"<?php
 
-$k1 = $_GET ["key"];
-
-switch ($k1) {
+switch {
     case "ARABIC-DEV":
         echo "true";
         break;
@@ -10,4 +8,5 @@ switch ($k1) {
 		echo "false";
 		break;
 }
-?>","uuid":"<?php echo $_GET['udid']; ?>"}
+
+?>"}
