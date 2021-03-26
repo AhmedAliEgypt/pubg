@@ -1,11 +1,11 @@
 <html>
 <body>
 
-{"status":"<?php
+<?php
 
 case "true":
 
- ?>"}
+?>
 
 </body>
 </html>
